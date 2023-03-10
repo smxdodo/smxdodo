@@ -1,7 +1,13 @@
 ## Hello, i'm Renan.
 
 - 🎓 I'm learning Front and Back-end.
-
+- 
+<div>
+<a href="https://github.com/smxdodo">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pablojesusdasilva&show_icons=true&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablojesusdasilva&layout=compact&langs-count=168&theme=tokyonight">
+  </div>
+  
 <div style="inline_block">
 
 ## 🧠 My skills
