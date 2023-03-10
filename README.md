@@ -1,6 +1,10 @@
 <h1>Hello, i'm Renan.</h1>
 
-- 🎓 I'm learning Front and Back-end.
+<ol>
+
+<li>🎓 I'm learning Front and Back-end.</li>
+
+</ol>
  
 <div>
 <a href="https://github.com/smxdodo">
