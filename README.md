@@ -10,14 +10,14 @@
  
 <a href="https://github.com/smxdodo">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=smxdodo&show_icons=true&theme=tokyonight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smxdodo&layout=compact&langs-count=168&theme=tokyonight">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smxdodo&layout=compact&langs-count=168&theme=tokyonight"/>
  
  </div>
   
 <div style="inline_block">
 
 <h1 align="center">🧠 My skills</h1>
-
+ 
   <img alt="Java" height="70" width="60" src="https://user-images.githubusercontent.com/116324297/223815006-3c054b5e-dc2f-4d9f-bfbf-0d6a20506d4e.png">
   <img alt="HTML" height="70" width="60" src="https://user-images.githubusercontent.com/116324297/223819886-18ebdd80-4763-4001-ab46-f52ff876838c.png">
   <img alt="CSS" height="70" width="60" src="https://user-images.githubusercontent.com/116324297/223819329-c8360d20-b472-4d6c-952e-a6599f035825.png">
